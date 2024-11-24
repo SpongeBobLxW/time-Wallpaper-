@@ -45,8 +45,8 @@ const modeToggle  = ()=>{
     lightHourColor.style.color = "#090784"
     lightMinColor.style.color = "#090784"
     lightSecColor.style.color = "#090784"
-    firstCol.style.color  = "black"
-    secCol.style.color  = "black"
+    firstCol.style.color  = "#060606"
+    secCol.style.color  = "#060606"
 }
 
 const darkToggle = ()=>{
