@@ -53,9 +53,9 @@ const darkToggle  = ()=>{
     main.style.background = "#060606"
     lightButton.style.display = "none"
     darktButton.style.display = "block"
-    lightHourColor.style.color = "#060606"
-    lightMinColor.style.color = "#060606"
-    lightSecColor.style.color = "#060606"
+    lightHourColor.style.color = "#1A1A1A"
+    lightMinColor.style.color = "#1A1A1A"
+    lightSecColor.style.color = "#1A1A1A"
     firstCol.style.color  = "#ffffff"
     secCol.style.color  = "#ffffff"
 }
