@@ -38,7 +38,7 @@ let lightSecColor = document.querySelector(".colch3")
 let firstCol = document.querySelector(".colch4")
 let secCol = document.querySelector(".colch5")
 
-const modeToggle  = ()=>{
+const lightToggle  = ()=>{
     main.style.background = "#ffffff"
     lightButton.style.display = "block"
     darktButton.style.display = "none"
@@ -49,7 +49,7 @@ const modeToggle  = ()=>{
     secCol.style.color  = "#060606"
 }
 
-const darkToggle = ()=>{
+const darkToggle  = ()=>{
     main.style.background = "#060606"
     lightButton.style.display = "none"
     darktButton.style.display = "block"
